@@ -20,10 +20,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
+Loom walkthrough of the app - https://www.loom.com/share/e68769f8e7eb49098e754297c71e76c9?sid=257ac5f0-9dc6-403e-a558-c18a11327f14 
 
 ## License
 
