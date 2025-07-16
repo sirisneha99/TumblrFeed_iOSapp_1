@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 
 
-!
+
 
 ## Video Walkthrough
 
