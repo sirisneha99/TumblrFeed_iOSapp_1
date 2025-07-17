@@ -2,14 +2,12 @@
 
 
 
-Trivia is an app that  :
-- allows users to view Tumblr feed
+Tumblr feed is an app that  :
+- allows users to view Tumblr feed using API fetching
 
 Time spent: **1.5** hours spent in total
 
-## Required Features
-
-The following **required** functionality is completed:
+The following functionality is completed:
 
 - [x] App has a configured table view and table view call
 - [x] App populates the table view with data fetched from an API
