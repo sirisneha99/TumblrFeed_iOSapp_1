@@ -21,6 +21,9 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Loom walkthrough of the app - https://www.loom.com/share/e68769f8e7eb49098e754297c71e76c9?sid=257ac5f0-9dc6-403e-a558-c18a11327f14 
+![Project Thumbnail](./Thumbnail.png)
+
+
 
 ## License
 
