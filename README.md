@@ -1,6 +1,6 @@
-# Project 5 - Tumblr Feed
+# Tumblr Feed
 
-Submitted by: Sneha Siri Nagabathula 
+
 
 Trivia is an app that  :
 - allows users to view Tumblr feed
